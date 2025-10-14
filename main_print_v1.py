@@ -1,5 +1,5 @@
 # 변수 선언
-name = "Seung-hyeon Yeom"
+name = "염승현"
 age = 20
 score = 95.5
 

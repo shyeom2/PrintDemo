@@ -5,7 +5,7 @@ from rich.table import Table
 from rich.panel import Panel
 
 # 변수
-name = "Alice"
+name = "염승현"
 age = 25
 score = 95.5
 
